@@ -6,10 +6,12 @@ A reusable component library built with **React**, **TypeScript**, and **Tailwin
 **Install Peer Dependencies**
 
 Make sure your app includes the following:
+```bash
 Tailwind CSS (^3.x)
 React (^18.x)
 chart.js (^4.x) for charts
 classnames or use the included cn() util
+```
 
 **Folder Structure**
 
@@ -25,6 +27,7 @@ src/
 
 **Available Components**
 
+```bash
 UI Primitives
 Button – with variant and size props
 Input, Select, Checkbox, Textarea
@@ -39,14 +42,16 @@ Topbar – (planned) header nav with account dropdown
 PageWrapper – layout utility
 Data Visualization
 Chart – Line chart using Chart.js
+```
 
 **Themes**
 
+```bash
 Tailwind tokens are pre-configured in tailwind.config.js:
 primary: #1E40AF
 secondary: #E0E7FF
 destructive: #DC2626
-
+```
 
 
 ---
