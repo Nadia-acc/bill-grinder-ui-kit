@@ -12,7 +12,7 @@ chart.js (^4.x) for charts
 classnames or use the included cn() util
 
 **Folder Structure**
-
+```bash
 src/
 ├── components/
 │   ├── ui/          # Atomic components (Button, Input, Modal, etc.)
