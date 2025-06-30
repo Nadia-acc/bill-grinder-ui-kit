@@ -12,6 +12,8 @@ git clone https://github.com/YOUR_ORG/bill-grinder-ui-kit.git
 cd bill-grinder-ui-kit
 npm install
 
+##
+
 2. Install Peer Dependencies
 Make sure your app includes the following:
 
