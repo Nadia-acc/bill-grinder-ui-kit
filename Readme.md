@@ -12,6 +12,7 @@ chart.js (^4.x) for charts
 classnames or use the included cn() util
 
 **Folder Structure**
+
 ```bash
 src/
 ├── components/
@@ -20,6 +21,7 @@ src/
 │   ├── composite/   # Advanced or app-specific UI (AgentCard, InvoiceRow)
 ├── lib/             # Utilities (e.g., cn() for class merging)
 ├── styles/          # Global Tailwind config
+```
 
 **Available Components**
 
